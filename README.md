@@ -14,7 +14,7 @@ This repository documents how to install and run **n8n** on a **Raspberry Pi 3B+
 ## Quick install (one-liner)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Coreseptive/n8n-raspberry-pi-3bplus-setup/refs/heads/main/install_n8n_rpi3b.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/muroztm/n8n-raspberry-pi-3bplus-setup/refs/heads/main/install_n8n_rpi3b.sh | sudo bash
 ```
 
 ## OR Step by Step
